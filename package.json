@@ -1,0 +1,19 @@
+{
+  "name": "testnpm1",
+  "version": "0.0.4",
+  "description": "Test Npm 1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/githubtest4324/testnpm1"
+  },
+  "keywords": ["testnpm1"
+  ],
+  "author": {
+    "name": "githubtest4324"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/githubtest4324/testnpm1/issues"
+  }
+}
